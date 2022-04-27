@@ -1,7 +1,7 @@
 <h2><img src="https://media.giphy.com/media/Wsq20ZI3cqj96k8rKC/giphy.gif" width="20"> Hi, I'm Seohyun Roh :)</h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeohyun-Roh%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<p>Welcome to my page! </br> I'm Seohyun, Frontend developer from Seoul, Korea</p>
+<p>Welcome to my page!</br>I'm Seohyun Roh, Frontend developer from Seoul, Korea</p>
 
 <h3>😄 Things I code with</h3>
 <p>
